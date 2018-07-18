@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{213E1774-C07C-4DCB-99BF-2773FE7278A5}">
+	<children>
+		<child name="HelloWorldASP" key="{F8C448A7-E883-4601-9545-1C53F8DEEDD1}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="HelloWorldASP\HelloWorldASP.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{7D3B8A5A-8176-42F1-B1DC-C210E25AF724}">
+		<children>
+			<testItem key="{F8C448A7-E883-4601-9545-1C53F8DEEDD1}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{961A5EF9-6BAE-470E-88FB-CF2C425A3266}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{D5B0221E-D654-4BC3-B62E-E2CAF2B26B68}" />
+	<scc key="{F0D60D49-B342-4271-94E0-3E8C61A0E7D6}" name="Team Foundation Version Control Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>

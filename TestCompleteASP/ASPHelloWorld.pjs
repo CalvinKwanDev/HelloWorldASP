@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{0F75E7FC-54BE-4646-A4C6-E0FD4D5AC8D1}">
+	<children>
+		<child name="ASPHelloWorld" key="{94D3513A-28CA-4015-A886-34D9C0DD65D1}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="ASPHelloWorld\ASPHelloWorld.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{D4A3684C-1FF6-4EB5-ACA5-3E48E1DCFF4A}">
+		<children>
+			<testItem key="{94D3513A-28CA-4015-A886-34D9C0DD65D1}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{8E0EB129-CBC8-4D9C-BE88-FE3C82595DAA}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{21660E57-2DB8-4CDA-B581-F9B6F201ED6D}" />
+	<scc key="{F0D60D49-B342-4271-94E0-3E8C61A0E7D6}" name="Team Foundation Version Control Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
